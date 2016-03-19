@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T00:38:35.424Z'
-dateModified: '2016-03-19T00:38:25.147Z'
+datePublished: '2016-03-19T00:40:59.436Z'
+dateModified: '2016-03-19T00:38:44.026Z'
 title: Speaking in Japan
 author: []
+sourcePath: _posts/2016-03-19-speaking-in-japan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-speaking-in-japan.md
-published: true
 url: speaking-in-japan/index.html
 _type: Article
 
