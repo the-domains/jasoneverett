@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T00:40:59.436Z'
-dateModified: '2016-03-19T00:38:44.026Z'
+datePublished: '2016-04-12T21:24:40.605Z'
+dateModified: '2016-03-19T00:41:09.785Z'
 title: Speaking in Japan
 author: []
 sourcePath: _posts/2016-03-19-speaking-in-japan.md
